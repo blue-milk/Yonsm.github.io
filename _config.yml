@@ -1,11 +1,11 @@
 markdown: kramdown
 permalink: /:title/
-url: https://blue-milk.github.io
-name: Eureka.NET
+url: bluemilk.fun
+name: Eureka!!
 author: bluemilk
 qq: 1009854069
 email: 1009854069@qq.com
 github: blue-milk
 safe: true
 paginate: 20
-about: "这里是 bluemilk 的个人博客，创建于 2020 年。"
+about: "bluemilk的杂七杂八."
